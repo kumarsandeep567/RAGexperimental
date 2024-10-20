@@ -2009,3 +2009,7 @@ hs_err_pid*
 
 # ImageProcessor DiskCache
 **/App_Data/cache/
+
+
+*.sqlite3
+*.bin
