@@ -3,7 +3,8 @@ This repository is all about understanding how Retrieval Augmented Generation (R
 
 ---
 ### Parts:
-- Part 1: In progress
+- Part 1: Complete - Learn about how to build a naive RAG pipeline with LangChain and GPT-4o as our LLM
+- Part 2: In progress
 
 ---
 ### References
